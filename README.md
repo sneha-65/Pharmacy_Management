@@ -109,25 +109,19 @@ This application helps pharmacies manage medicines, inventory, suppliers, purcha
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/DashBoard.png)
 
 ---
 
 ## Customer Management
 
-![Customers](screenshots/customers.png)
+![Customers](screenshots/Customers.png)
 
 ---
 
 ## Medicine Management
 
-![Medicines](screenshots/medicines.png)
-
----
-
-## Inventory Management
-
-![Inventory](screenshots/inventory.png)
+![Medicines](screenshots/Medicines.png)
 
 ---
 
@@ -135,19 +129,11 @@ This application helps pharmacies manage medicines, inventory, suppliers, purcha
 
 ![Sales](screenshots/sales.png)
 
----
-
-## Supplier Management
-
-![Suppliers](screenshots/suppliers.png)
+![Sales](screenshots/sales2.png)
 
 ---
 
-## Purchase Management
 
-![Purchases](screenshots/purchases.png)
-
----
 
 # 🏗 Database Architecture
 
